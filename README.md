@@ -38,7 +38,7 @@ Before you begin this guide, you need the following:
 
 # Use:
 
-**Link To Guide**: * [Click Me]
+**Link To Guide**: [Click Me]
 
  
  
