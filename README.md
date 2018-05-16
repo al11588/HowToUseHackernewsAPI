@@ -55,7 +55,8 @@ Before you begin this guide, you need the following:
  
 9.	Run the Python script to see what meta information is available the HEAD of the URL:
  
-How To Run Example:
+# How To Run Example:
+
 *	Install: Python 3.
 *	Install: Firefox or Chrome. 
 *	Run: "pip install virtualenv".
