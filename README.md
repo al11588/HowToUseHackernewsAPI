@@ -16,7 +16,7 @@ Before you begin this guide, you need the following:
 *	A text editor that you will be comfortable using: Sublime Text, Atom, Visual Studio Code. 
 *	You need a Hacker News account. 
 
-#What To Install:
+# What To Install:
 
 *	You need to install Requests using PIP in Terminal. 
 *	Press CTRL + ALT + T on your keyboard and type:
@@ -28,7 +28,7 @@ Before you begin this guide, you need the following:
 *	**OPTIONS** - Indicates which techniques are supported.
 *	**HEAD** - Returns meta data from the requested URL.
 
-#Use:
+# Use:
 
 1.	Copy this code: 
  
