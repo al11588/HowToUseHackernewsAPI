@@ -19,9 +19,9 @@ What To Install:
 *	Press CTRL + ALT + T on your keyboard and type:
 *	PIP install requests.
 # API Calls:
-*	GET - Requests a resource at the requested URL.
-*	OPTIONS - Indicates which techniques are supported.
-*	HEAD - Returns meta data from the requested URL.
+*	**GET - Requests a resource at the requested URL.
+*	**OPTIONS - Indicates which techniques are supported.
+*	**HEAD - Returns meta data from the requested URL.
 Use:
 1.	Copy this code: 
  
