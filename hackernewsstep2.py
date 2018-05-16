@@ -24,7 +24,7 @@ def hackernewsheadapirequest():
 hackernewsgetapirequest()
 
 # Indicates which techniques are supported.
-#hackernewsoptionsapirequest()
+hackernewsoptionsapirequest()
 
 # Returns meta information in that given URL. 
-#hackernewsheadapirequest()
+hackernewsheadapirequest()
