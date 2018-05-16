@@ -24,9 +24,9 @@ Before you begin this guide, you need the following:
 
 *	You need to install Requests using PIP in Terminal. 
 
-*	Press CTRL + ALT + T on your keyboard and type:
+*	Press **CTRL + ALT + T** on your keyboard and type:
 
-*	PIP install requests.
+*	**PIP install requests.**
 
 # API Calls:
 
