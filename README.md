@@ -1,4 +1,4 @@
-# MajorLeagueHackingAssignment
+# Major League Hacking Assignment
 
 # Introduction: 
 
