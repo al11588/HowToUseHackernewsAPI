@@ -39,6 +39,7 @@ Before you begin this guide, you need the following:
 # Use:
 
 1.	Copy this code:
+
 ![Image1](https://github.com/al11588/MajorLeagueHackingAssignment/blob/master/images/1.png) 
  
 2.	Copy the code below, indent and paste it on line 7 to make a GET API call: 
