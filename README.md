@@ -57,9 +57,9 @@ Before you begin this guide, you need the following:
  
 # How To Run Example:
 
-*	Install: Python 3.
-*	Install: Firefox or Chrome. 
-*	Run: "pip install virtualenv".
-*	Run: "source venv/bin/activate".
-*	Run: "pip install -r requirements.txt".
-*	Run: "python3 hackernewstep2.py".
+*	**Install**: Python 3.
+*	**Install**: Firefox or Chrome. 
+*	**Run**: "pip install virtualenv".
+*	**Run**: "source venv/bin/activate".
+*	**Run**: "pip install -r requirements.txt".
+*	**Run**: "python3 hackernewstep2.py".
