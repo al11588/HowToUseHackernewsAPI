@@ -7,6 +7,7 @@ The Hacker News API allows individuals to retrieve news information on their web
 *	The ability to find the newest news.
 *	Find the latest comments on the website.
 *	Search for profile changes that a user has made. 
+
 # Prerequisites: 
 
 Before you begin this guide, you need the following: 
@@ -14,15 +15,21 @@ Before you begin this guide, you need the following:
 *	You need to set up a local development environment for Python 3. How to install Ubuntu? 
 *	A text editor that you will be comfortable using: Sublime Text, Atom, Visual Studio Code. 
 *	You need a Hacker News account. 
-What To Install:
+
+#What To Install:
+
 *	You need to install Requests using PIP in Terminal. 
 *	Press CTRL + ALT + T on your keyboard and type:
 *	PIP install requests.
+
 # API Calls:
+
 *	**GET** - Requests a resource at the requested URL.
 *	**OPTIONS** - Indicates which techniques are supported.
 *	**HEAD** - Returns meta data from the requested URL.
-Use:
+
+#Use:
+
 1.	Copy this code: 
  
 2.	Copy the code below, indent and paste it on line 7 to make a GET API call: 
