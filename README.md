@@ -44,6 +44,8 @@ Before you begin this guide, you need the following:
  
 # How To Run Example:
 
+*	**Link**: [Click Me.]
+
 *	**Install**: Python 3.
 
 *	**Install**: Firefox or Chrome.
@@ -62,3 +64,5 @@ Before you begin this guide, you need the following:
 [Atom]:https://atom.io/
 [Visual Studio Code]:https://code.visualstudio.com/
 [Click Me]:https://github.com/al11588/MajorLeagueHackingAssignment/blob/master/Alvin%20Lawson%20-%20Major%20League%20Hacking%20Take%20Home%20Challenge.pdf
+
+[Click Me.]:https://github.com/al11588/MajorLeagueHackingAssignment
