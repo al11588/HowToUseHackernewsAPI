@@ -38,7 +38,7 @@ Before you begin this guide, you need the following:
 
 # Use:
 
-*	Link To Guide: * [Link To Guide] - Click Me
+**Link To Guide**: * [Click Me]
 
  
  
@@ -57,4 +57,4 @@ Before you begin this guide, you need the following:
 *	**Run**: "python3 hackernewstep2.py".
 
 
-[Link To Guide]:https://github.com/al11588/MajorLeagueHackingAssignment/blob/master/Alvin%20Lawson%20-%20Major%20League%20Hacking%20Take%20Home%20Challenge.pdf
+[Click Me]:https://github.com/al11588/MajorLeagueHackingAssignment/blob/master/Alvin%20Lawson%20-%20Major%20League%20Hacking%20Take%20Home%20Challenge.pdf
