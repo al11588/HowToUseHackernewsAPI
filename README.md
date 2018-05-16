@@ -47,29 +47,32 @@ Before you begin this guide, you need the following:
 “req = requests.get('https://hacker-news.firebaseio.com/v0/updates.json?print=pretty')”
 
 3.	Run the Python script and it will GET the information in JSON. 
- 
 
-
-
-
+![Image2](https://github.com/al11588/MajorLeagueHackingAssignment/blob/master/images/2.png)
 
 4.	Copy the code below, indent and paste it on line 13 to make an OPTIONS API call: 
 
 “req = requests.options('https://hacker-news.firebaseio.com/v0/updates.json?print=pretty')”
 
 5.	Delete the # on line 27:
- 
+
+![Image3](https://github.com/al11588/MajorLeagueHackingAssignment/blob/master/images/3.png) 
+
 6.	Run the Python script to see which OPTIONS are supported:
  
-
+![Image4](https://github.com/al11588/MajorLeagueHackingAssignment/blob/master/images/4.png) 
 
 7.	Copy the code below, indent and paste it on line 19 to make a HEAD API call:
 
 “req = requests.head('https://hacker-news.firebaseio.com/v0/updates.json?print=pretty')”
 
 8.	Delete the # on line 30:
+
+![Image5](https://github.com/al11588/MajorLeagueHackingAssignment/blob/master/images/5.png) 
  
 9.	Run the Python script to see what meta information is available the HEAD of the URL:
+
+![Image6](https://github.com/al11588/MajorLeagueHackingAssignment/blob/master/images/6.png) 
  
 # How To Run Example:
 
