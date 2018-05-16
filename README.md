@@ -1,4 +1,4 @@
-# Major League Hacking Assignment
+# Major League Hacking Assignment - How to make three API calls using the Hacker News API in Python?
 
 # Introduction: 
 
