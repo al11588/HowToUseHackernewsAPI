@@ -2,7 +2,7 @@
 
 # Introduction: 
 
-The Hacker News API allows individuals to retrieve news information on their website: 
+The [Hacker News] API allows individuals to retrieve news information on their website: 
 
 *	The ability to find the newest news.
 
@@ -14,11 +14,11 @@ The Hacker News API allows individuals to retrieve news information on their web
 
 Before you begin this guide, you need the following: 
 
-*	You need to set up a local development environment for Python 3. How to install Ubuntu? 
+*	You need to set up a local development environment for Python 3. [How To Install Ubuntu ?]
 
-*	A text editor that you will be comfortable using: Sublime Text, Atom, Visual Studio Code. 
+*	A text editor that you will be comfortable using: [Sublime Text], [Atom], [Visual Studio Code]. 
 
-*	You need a Hacker News account. 
+*	You need a [Hacker News] account. 
 
 # What To Install:
 
@@ -56,5 +56,9 @@ Before you begin this guide, you need the following:
 
 *	**Run**: "python3 hackernewstep2.py".
 
-
+[Hacker News]:https://news.ycombinator.com/
+[How To Install Ubuntu ?]:https://help.ubuntu.com/community/Installation
+[Sublime Text]:https://www.sublimetext.com/
+[Atom]:https://atom.io/
+[Visual Studio Code]:https://code.visualstudio.com/
 [Click Me]:https://github.com/al11588/MajorLeagueHackingAssignment/blob/master/Alvin%20Lawson%20-%20Major%20League%20Hacking%20Take%20Home%20Challenge.pdf
