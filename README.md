@@ -33,7 +33,9 @@ Before you begin this guide, you need the following:
 1.	Copy this code: 
  
 2.	Copy the code below, indent and paste it on line 7 to make a GET API call: 
+
 “req = requests.get('https://hacker-news.firebaseio.com/v0/updates.json?print=pretty')”
+
 3.	Run the Python script and it will GET the information in JSON. 
  
 
@@ -42,15 +44,19 @@ Before you begin this guide, you need the following:
 
 
 4.	Copy the code below, indent and paste it on line 13 to make an OPTIONS API call: 
+
 “req = requests.options('https://hacker-news.firebaseio.com/v0/updates.json?print=pretty')”
+
 5.	Delete the # on line 27:
  
 6.	Run the Python script to see which OPTIONS are supported:
  
 
 
-7.	Copy the code below, indent and paste it on line 19 to make a HEAD API call: 
+7.	Copy the code below, indent and paste it on line 19 to make a HEAD API call:
+
 “req = requests.head('https://hacker-news.firebaseio.com/v0/updates.json?print=pretty')”
+
 8.	Delete the # on line 30:
  
 9.	Run the Python script to see what meta information is available the HEAD of the URL:
