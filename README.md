@@ -52,6 +52,8 @@ Before you begin this guide, you need the following:
 
 *	**Run**: "pip install virtualenv".
 
+*	**Run**: "virtualenv venv".
+
 *	**Run**: "source venv/bin/activate".
 
 *	**Run**: "pip install -r requirements.txt".
