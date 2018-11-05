@@ -67,4 +67,4 @@ Before you begin this guide, you need the following:
 [Visual Studio Code]:https://code.visualstudio.com/
 [Click Me]:https://github.com/al11588/HowToUseHackernewsAPI/blob/master/Alvin%20Lawson%20-Technical%20Writing%20Sample%205.docx
 
-[Click Me.]:https://github.com/al11588/MajorLeagueHackingAssignment
+[Click Me.]:https://github.com/al11588/HowToUseHackernewsAPI
