@@ -65,6 +65,6 @@ Before you begin this guide, you need the following:
 [Sublime Text]:https://www.sublimetext.com/
 [Atom]:https://atom.io/
 [Visual Studio Code]:https://code.visualstudio.com/
-[Click Me]:https://github.com/al11588/MajorLeagueHackingAssignment/blob/master/Alvin%20Lawson%20-%20Major%20League%20Hacking%20Take%20Home%20Challenge.pdf
+[Click Me]:https://github.com/al11588/HowToUseHackernewsAPI/blob/master/Alvin%20Lawson%20-Technical%20Writing%20Sample%205.docx
 
 [Click Me.]:https://github.com/al11588/MajorLeagueHackingAssignment
