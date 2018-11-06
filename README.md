@@ -4,7 +4,7 @@
 
 ![Image Tests Tests](https://raw.githubusercontent.com/al11588/HowToUseHackernewsAPI/master/image.png)
 
-![Image Tests Tests](https://raw.githubusercontent.com/al11588/SeleniumMoat/master/image.png?token=AFM1uM3hq-hQryhyJb-4o_Gqg4AaIEpdks5b6kPfwA%3D%3D)
+![Image Tests Tests](https://raw.githubusercontent.com/al11588/HowToUseHackernewsAPI/master/image2.png)
 
 The [Hacker News] API allows individuals to retrieve news information on their website: 
 
